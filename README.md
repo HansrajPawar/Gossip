@@ -29,12 +29,18 @@ Gossip---A-Chatting-App/ ├── client/ # React.js client-side code ├──
 ## 🔧 Installation
 
 1. **Clone the repository**:
+<<<<<<< HEAD
 
    ````bash
    git clone https://github.com/HansrajPawar/Gossip.git ```
 
    cd Gossip
    ````
+=======
+   ```bash
+   https://github.com/HansrajPawar/Gossip.git
+   ```
+>>>>>>> 900c980e6b63f8908f21078760e52bd1c8ce78ea
 
 2. **Install Dependencies**:
    **For Backend**
@@ -79,10 +85,3 @@ npm start
 **Start a conversation by selecting a chat or creating a new one.**
 **Engage in real-time chat with friends.**
 
-## 🤝 Contributing
-
-Contributions are welcome! If you have any improvements or find any issues, feel free to open an issue or submit a pull request.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
