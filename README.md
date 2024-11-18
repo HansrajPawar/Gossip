@@ -30,9 +30,7 @@ Gossip---A-Chatting-App/ ├── client/ # React.js client-side code ├──
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/TTJLMDP6141/chat--app.git
-   cd Gossip---A-Chatting-App
-   ```
+
 2. **Install Dependencies**:
    **For Backend**
 
