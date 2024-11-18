@@ -18,7 +18,7 @@ export const SocketContextProvider = ({ children }) => {
       const socket = io("https://gossip-pdln.onrender.com/", {
         query: {
           userId: authUser._id,
-        },x
+        },
       });
 
       setSocket(socket);
