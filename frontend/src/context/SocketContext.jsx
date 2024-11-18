@@ -15,10 +15,10 @@ export const SocketContextProvider = ({ children }) => {
 
   useEffect(() => {
     if (authUser) {
-      const socket = io("https://gossip-pdln.onrender.com/login", {
+      const socket = io("https://gossip-pdln.onrender.com/", {
         query: {
           userId: authUser._id,
-        },
+        },x
       });
 
       setSocket(socket);
