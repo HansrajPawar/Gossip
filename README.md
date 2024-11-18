@@ -75,10 +75,3 @@ npm start
 **Start a conversation by selecting a chat or creating a new one.**
 **Engage in real-time chat with friends.**
 
-## 🤝 Contributing
-
-Contributions are welcome! If you have any improvements or find any issues, feel free to open an issue or submit a pull request.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
