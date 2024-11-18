@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Live Demo: [Gossip - A Chatting App](https://gossip-zdlb.onrender.com/login)
+Live Demo: [Gossip - A Chatting App](https://gossip-pdln.onrender.com/login)
 
 ## 📖 Overview
 
@@ -29,10 +29,13 @@ Gossip---A-Chatting-App/ ├── client/ # React.js client-side code ├──
 ## 🔧 Installation
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/TTJLMDP6141/chat--app.git
-   cd Gossip---A-Chatting-App
-   ```
+
+   ````bash
+   git clone https://github.com/HansrajPawar/Gossip.git ```
+
+   cd Gossip
+   ````
+
 2. **Install Dependencies**:
    **For Backend**
 
