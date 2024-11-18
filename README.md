@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Live Demo: [Gossip - A Chatting App](https://gossip-zdlb.onrender.com/login)
+Live Demo: [Gossip - A Chatting App](https://gossip-pdln.onrender.com/login)
 
 ## 📖 Overview
 
